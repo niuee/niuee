@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niuee
 
 I am a mechanical engineering graduate who happens to take interest in coding in general.<br>
-My learning path starts in college where I started taking courses within the CS minor curriculum. <br>
+My learning path starts in college where I started taking courses within the CS curriculum. <br>
 
 I have most of my projects in college here on github.<br>
 Feel free to check those out. I haven't touch many of them since college. <br> 
