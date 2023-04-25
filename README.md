@@ -8,7 +8,6 @@ Feel free to check those out. I haven't touch many of them since college. <br>
 I intended to revisit those during my free time at work.<br>
 
 #### Below is the list of those project
-- [Web crawler](https://github.com/niuee/simple-crawler2) implemented in Java with a multithreaded search system. (from CS 180 in purdue)
 - [Web crawler](https://github.com/niuee/simple-crawler) implemented in C++ with a custom parser for urls and site content. 
 A [Search engine](https://github.com/niuee/simple-searchengine) using three different data structures: BST, Array, and HashTable(from CS 251 in purdue)
 - [IRC server](https://github.com/niuee/ircserver-practice) for real time chating with features like room and user account (from CS 240 in purdue)
