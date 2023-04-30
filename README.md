@@ -13,8 +13,8 @@ A [Search engine](https://github.com/niuee/simple-searchengine) using three diff
 - [IRC server](https://github.com/niuee/ircserver-practice) for real time chating with features like room and user account (from CS 240 in purdue)
 
 #### Current Plan
-Right now I am in a drone company developing extension features for current drones using ROS(Robot Operating System).
-I am learning techs that are used in web-dev especially in back-end. 
+I worked on developing new features for autonomous vehicle (mostly agricultural drones) at previous job. I am currently seeking new opportunity in web-dev and backend particularly. 
+I have been studying a lot of concepts, design practices, and techonologies in the web-dev backend field (I still have a lot to learn tho). I am working on a horse racing simulation game that is sort of like a mock of the Japanese video games like "Winning Post" and/or "Derby Stallion". I planned to apply some of the stuff that I learned in backend along the way (so this would be mostly a web-based game) and hopefully would have a demo before I land my next job (fingers crossed; on the job hunt I mean). Everything you see that has the "hr" prefix (horse racing lame I know I am still working on the naming part) are all related to the horse racing simulation side project.
 
 
 <!---
