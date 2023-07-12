@@ -12,9 +12,19 @@ I intend to revisit those during my free time at work.<br>
 A [Search engine](https://github.com/niuee/simple-searchengine) using three different data structures: BST, Array, and HashTable(from CS 251 in purdue)
 - [IRC server](https://github.com/niuee/ircserver-practice) for real time chatting with features like chat room and user account (from CS 240 in purdue)
 
-#### Current Plan
-I worked on developing new features for autonomous vehicle (mostly agricultural drones) at my previous job. I am currently seeking new opportunity in web-dev and backend particularly. 
-I have been studying a lot of concepts, design practices, and techonologies used in the web-dev backend field (I understand I still have a lot to learn tho). I am working on a horse racing simulation game that is sort of like a mock of the Japanese video games like "Winning Post" and/or "Derby Stallion". I planned to apply some of the stuff that I learned in backend along the way (so this would be mostly a web-based game) and hopefully would have a demo before I land my next job (fingers crossed; on the job hunt I mean). Everything you see that has the "hr" prefix (horse racing; lame I know; I am still working on the name) are all related to the horse racing simulation side project.
+#### Current Side Projects
+After I left my previous job I started to keep myself busy by catching up with the backend development in the web dev industry. 
+I have started a series of side projects that will ultimately come together as a horse racing simulation game. 
+I have applied some of the stuff that I learned about backend tech in some of the projects. Everything with a hr(horse racing) prefix is part of the project. 
+- [HR Racetrack Maker](https://github.com/niuee/hrracetrack-maker)
+- [HR Physics Engine](https://github.com/niuee/hrphysics-simulation)
+- [HR GraphQL](https://github.com/niuee/hrGraphql)
+- [HR Crawler](https://github.com/niuee/hrcrawler)
+
+Some other projects that are worth checking out
+- [Web Component Library](https://github.com/niuee/vnt-component-library)
+- [point2point](https://github.com/niuee/point2point)
+
 
 
 <!---
