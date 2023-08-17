@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @niuee
 
-I came from a mechanical engineering background and happen to take an interest in coding in general.<br>
+I come from a mechanical engineering background and am interested in coding in general.<br>
 My learning path began when I started taking courses within the CS curriculum in college. <br>
 
-I have most of my projects in college here on Git Hub.<br>
+I have most of my projects in college here on GitHub.<br>
 Feel free to check those out. However, I haven't touched many of them since college. <br> 
 I intend to revisit those during my free time at work.<br>
 
 #### Below is the list of those project
 - [Web crawler](https://github.com/niuee/simple-crawler) implemented in C++ with a custom parser for urls and site content. 
 A [Search engine](https://github.com/niuee/simple-searchengine) using three different data structures: BST, Array, and HashTable(from CS 251 in Purdue)
-- [IRC server](https://github.com/niuee/ircserver-practice) for real-time chatting with features like chat room and user account (from CS 240 in Purdue)
+- [IRC server](https://github.com/niuee/ircserver-practice) for real-time chatting with features like a chat room and user account (from CS 240 in Purdue)
 
 #### Current Side Projects
 After I left my previous job I started to keep myself busy by catching up with the backend development in the web dev industry. 
