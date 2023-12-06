@@ -13,7 +13,7 @@ A [Search engine](https://github.com/niuee/simple-searchengine) using three diff
 - [IRC server](https://github.com/niuee/ircserver-practice) for real-time chatting with features like a chat room and user account (from CS 240 in Purdue)
 
 #### Current Side Projects
-After I left my previous job I started to keep myself busy by catching up with the backend development in the web dev industry. 
+After I left my previous job, I started to keep myself busy by catching up with the backend development in the web dev industry. 
 I have started a series of side projects that will ultimately come together as a horse racing simulation game. 
 I have applied some of the stuff I learned about backend tech in some projects. Everything with a hr(horse racing) prefix is part of the project. 
 - [HR Racetrack Maker](https://github.com/niuee/hrracetrack-maker)
@@ -22,8 +22,10 @@ I have applied some of the stuff I learned about backend tech in some projects. 
 - [HR Crawler](https://github.com/niuee/hrcrawler)
 
 Some other projects that are worth checking out
-- [Web Component Library](https://github.com/niuee/vnt-component-library)
-- [point2point](https://github.com/niuee/point2point)
+- [bCurve](https://github.com/niuee/bCurve) This is a simple, bezier curve-related computation library.
+- [Web Component Library](https://github.com/niuee/vnt-component-library) This is a testing ground where I prototype my ideas, and some of them may evolve into their own project.
+- [point2point](https://github.com/niuee/point2point) This is a 2D vector-related library that I use in some of my other projects. For instance, the [bCurve](https://github.com/niuee/bCurve) and the [vCanvas](https://github.com/niuee/vCanvas).
+- [vCanvas](https://github.com/niuee/vCanvas) This is a pannable, zoomable, and rotatable (not sure if this word exists) custom canvas element using the web component API.
 
 
 
