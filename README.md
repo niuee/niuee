@@ -22,10 +22,12 @@ I have applied some of the stuff I learned about backend tech in some projects. 
 - [HR Crawler](https://github.com/niuee/hrcrawler)
 
 Some other projects that are worth checking out
-- [bCurve](https://github.com/niuee/bCurve) This is a simple, bezier curve-related computation library.
-- [Web Component Library](https://github.com/niuee/vnt-component-library) This is a testing ground where I prototype my ideas, and some of them may evolve into their own project.
-- [point2point](https://github.com/niuee/point2point) This is a 2D vector-related library that I use in some of my other projects. For instance, the [bCurve](https://github.com/niuee/bCurve) and the [vCanvas](https://github.com/niuee/vCanvas).
 - [vCanvas](https://github.com/niuee/vCanvas) This is a pannable, zoomable, and rotatable (not sure if this word exists) custom canvas element using the web component API.
+- [vCanvas Testground](https://github.com/niuee/vCanvas-testground) This is the sandbox where I test out the capabilities of the vCanvas element in [vCanvas](https://github.com/niuee/vCanvas)
+- [vAnimation](https://github.com/niuee/vAnimation) This is the animation backbone that I plan to use in my new portfolio website showcasing the vCanvas element.
+- [vPhysics](https://github.com/niuee/vPhysics) This is a simplified physics simulation engine originated from the [python](https://github.com/niuee/hrphysics-simulation) version. The implementations are almost identical. However, to optimize a bit for the collision detection, I added a quadtree for the broad phase.
+- [bCurve](https://github.com/niuee/bCurve) This is a simple, bezier curve-related computation library.
+- [point2point](https://github.com/niuee/point2point) This is a 2D vector-related library that I use in some of my other projects. For instance, the [bCurve](https://github.com/niuee/bCurve) and the [vCanvas](https://github.com/niuee/vCanvas).
 
 
 
