@@ -22,7 +22,7 @@ I have applied some of the stuff I learned about backend tech in some projects. 
 - [HR Crawler](https://github.com/niuee/hrcrawler)
 
 Some other projects that are worth checking out
-- [vCanvas](https://github.com/niuee/vCanvas) This is a pannable, zoomable, and rotatable (not sure if this word exists) custom canvas element using the web component API.
+- [board](https://github.com/niuee/board) This is a pannable, zoomable, and rotatable (not sure if this word exists) custom canvas element using the web component API.
 - [vCanvas Testground](https://github.com/niuee/vCanvas-testground) This is the sandbox where I test out the capabilities of the vCanvas element in [vCanvas](https://github.com/niuee/vCanvas)
 - [vAnimation](https://github.com/niuee/vAnimation) This is the animation backbone that I plan to use in my new portfolio website showcasing the vCanvas element.
 - [vPhysics](https://github.com/niuee/vPhysics) This is a simplified physics simulation engine originated from the [python](https://github.com/niuee/hrphysics-simulation) version. The implementations are almost identical. However, to optimize a bit for the collision detection, I added a quadtree for the broad phase.
