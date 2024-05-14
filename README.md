@@ -13,15 +13,6 @@ A [Search engine](https://github.com/niuee/simple-searchengine) using three diff
 - [IRC server](https://github.com/niuee/ircserver-practice) for real-time chatting with features like a chat room and user account (from CS 240 in Purdue)
 
 #### Current Side Projects
-After I left my previous job, I started to keep myself busy by catching up with the backend development in the web dev industry. 
-I have started a series of side projects that will ultimately come together as a horse racing simulation game. 
-I have applied some of the stuff I learned about backend tech in some projects. Everything with a hr(horse racing) prefix is part of the project. 
-- [HR Racetrack Maker](https://github.com/niuee/hrracetrack-maker)
-- [HR Physics Engine](https://github.com/niuee/hrphysics-simulation)
-- [HR GraphQL](https://github.com/niuee/hrGraphql)
-- [HR Crawler](https://github.com/niuee/hrcrawler)
-
-Some other projects that are worth checking out
 - [board](https://github.com/niuee/board) This library transforms a regular canvas element into a pannable, zoomable, and rotatable near-infinite canvas. 
 - [board Testground](https://github.com/niuee/vCanvas-testground) This is the sandbox where I test out the capabilities of the board element in [board](https://github.com/niuee/vCanvas)
 - [bounce](https://github.com/niuee/bounce) This is the animation backbone I plan to use in my new portfolio website showcasing the board element.
@@ -29,6 +20,14 @@ Some other projects that are worth checking out
 - [bend](https://github.com/niuee/bend) This is a simple, bezier curve-related computation library.
 - [point2point](https://github.com/niuee/point2point) This is a 2D vector-related library I use in my other projects. For instance, the [bend](https://github.com/niuee/bend) and the [board](https://github.com/niuee/board).
 
+#### Still finding time to develop these.
+After I left my previous job, I started to keep myself busy by catching up with the backend development in the web dev industry. 
+I have started a series of side projects that will ultimately come together as a horse racing simulation game. 
+I have applied some of the stuff I learned about backend tech in some projects. Everything with a hr(horse racing) prefix is part of the project. 
+- [HR Racetrack Maker](https://github.com/niuee/hrracetrack-maker)
+- [HR Physics Engine](https://github.com/niuee/hrphysics-simulation)
+- [HR GraphQL](https://github.com/niuee/hrGraphql)
+- [HR Crawler](https://github.com/niuee/hrcrawler)
 
 
 <!---
