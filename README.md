@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niuee
 
-I am fascinated with the concept "Infinite Canvas", so I started a library, "board", that covers the ground work of creating a web app that uses infinite canvas.
+I am fascinated with the "Infinite Canvas", so I started a library, "board", that covers the ground work of creating a web app that uses infinite canvas.
 
 #### Current Side Projects
 - [board](https://github.com/niuee/board) This library transforms a regular canvas element into a pannable, zoomable, and rotatable near-infinite canvas. 
