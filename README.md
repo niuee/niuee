@@ -1,14 +1,19 @@
 - 👋 Hi,
-  
-I started a library, "board", that covers the groundwork of creating a web app that uses infinite canvas.
 
-#### Current Side Projects
-- [board](https://github.com/niuee/board) This library transforms a regular canvas element into a pannable, zoomable, and rotatable near-infinite canvas. 
-- [board Testground](https://github.com/niuee/vCanvas-testground) This is the sandbox where I test out the capabilities of the board element in [board](https://github.com/niuee/board)
-- [bounce](https://github.com/niuee/bounce) This is the animation backbone I plan to use in my new portfolio website showcasing the board element.
-- [bolt](https://github.com/niuee/bolt) This is a simplified physics simulation engine originated from the [python](https://github.com/niuee/hrphysics-simulation) version. The implementations are almost identical. However, to optimize the collision detection a bit, I added a quadtree for the broad phase.
-- [bend](https://github.com/niuee/bend) This is a simple, bezier curve-related computation library.
-- [point2point](https://github.com/niuee/point2point) This is a 2D vector-related library I use in my other projects. For instance, the [bend](https://github.com/niuee/bend) and the [board](https://github.com/niuee/board).
+I started a HTML canvas application development toolkit, [@ue-too](https://github.com/ue-too/ue-too). It has many util packages that can jump start a canvas based web application.
+
+#### ue-too is organized into modular packages:
+
+- [**`@ue-too/being`**](./packages/being/README.md) - Finite state machine <img src="https://img.shields.io/npm/v/@ue-too/being.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/board`**](./packages/board/README.md) - Canvas viewport management with pan, zoom, and rotate functionality <img src="https://img.shields.io/npm/v/@ue-too/board.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/math`**](./packages/math/README.md) - Mathematical utilities for 2D point operations, transformations, and calculations <img src="https://img.shields.io/npm/v/@ue-too/math.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/animate`**](./packages/animate/README.md) - Animation system for smooth transitions and keyframe animations <img src="https://img.shields.io/npm/v/@ue-too/animate.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/dynamics`**](./packages/dynamics/README.md) - 2D physics engine with collision detection, rigid bodies, and constraints <img src="https://img.shields.io/npm/v/@ue-too/dynamics.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/curve`**](./packages/curve/README.md) - Curve and path tools including Bézier curves, lines, and composite paths <img src="https://img.shields.io/npm/v/@ue-too/curve.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/border`**](./packages/border/README.md) - Geographic projection utilities (great circle, rhumb line, map projections) <img src="https://img.shields.io/npm/v/@ue-too/border.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/ecs`**](./packages/ecs/README.md) - Entity Component System architecture support <img src="https://img.shields.io/npm/v/@ue-too/ecs.svg" alt="npm version" style="vertical-align: middle">
+
+
 
 #### Still finding time to develop these.
 After I left my previous job, I started to keep myself busy by catching up with the backend development in the web dev industry. 
