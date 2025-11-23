@@ -4,14 +4,14 @@ I started a HTML canvas application development toolkit, [@ue-too](https://githu
 
 #### ue-too is organized into modular packages:
 
-- [**`@ue-too/being`**](./packages/being/README.md) - Finite state machine <img src="https://img.shields.io/npm/v/@ue-too/being.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/board`**](./packages/board/README.md) - Canvas viewport management with pan, zoom, and rotate functionality <img src="https://img.shields.io/npm/v/@ue-too/board.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/math`**](./packages/math/README.md) - Mathematical utilities for 2D point operations, transformations, and calculations <img src="https://img.shields.io/npm/v/@ue-too/math.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/animate`**](./packages/animate/README.md) - Animation system for smooth transitions and keyframe animations <img src="https://img.shields.io/npm/v/@ue-too/animate.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/dynamics`**](./packages/dynamics/README.md) - 2D physics engine with collision detection, rigid bodies, and constraints <img src="https://img.shields.io/npm/v/@ue-too/dynamics.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/curve`**](./packages/curve/README.md) - Curve and path tools including Bézier curves, lines, and composite paths <img src="https://img.shields.io/npm/v/@ue-too/curve.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/border`**](./packages/border/README.md) - Geographic projection utilities (great circle, rhumb line, map projections) <img src="https://img.shields.io/npm/v/@ue-too/border.svg" alt="npm version" style="vertical-align: middle">
-- [**`@ue-too/ecs`**](./packages/ecs/README.md) - Entity Component System architecture support <img src="https://img.shields.io/npm/v/@ue-too/ecs.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/being`**](https://github.com/ue-too/ue-too/tree/main/packages/being) - Finite state machine <img src="https://img.shields.io/npm/v/@ue-too/being.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/board`**](https://github.com/ue-too/ue-too/tree/main/packages/board) - Canvas viewport management with pan, zoom, and rotate functionality <img src="https://img.shields.io/npm/v/@ue-too/board.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/math`**](https://github.com/ue-too/ue-too/tree/main/packages/math)) - Mathematical utilities for 2D point operations, transformations, and calculations <img src="https://img.shields.io/npm/v/@ue-too/math.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/animate`**](https://github.com/ue-too/ue-too/tree/main/packages/animate) - Animation system for smooth transitions and keyframe animations <img src="https://img.shields.io/npm/v/@ue-too/animate.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/dynamics`**](https://github.com/ue-too/ue-too/tree/main/packages/dynamics) - 2D physics engine with collision detection, rigid bodies, and constraints <img src="https://img.shields.io/npm/v/@ue-too/dynamics.svg" alt="npm version" style="vertical-align: middle">
+- [**`@ue-too/curve`**](https://github.com/ue-too/ue-too/tree/main/packages/curve) - Curve and path tools including Bézier curves, lines, and composite paths <img src="https://img.shields.io/npm/v/@ue-too/curve.svg" alt="npm version" style="vertical-align: middle">
+- **`@ue-too/border`** - Geographic projection utilities (great circle, rhumb line, map projections) <img src="https://img.shields.io/npm/v/@ue-too/border.svg" alt="npm version" style="vertical-align: middle">
+- **`@ue-too/ecs`** - Entity Component System architecture support <img src="https://img.shields.io/npm/v/@ue-too/ecs.svg" alt="npm version" style="vertical-align: middle">
 
 
 
